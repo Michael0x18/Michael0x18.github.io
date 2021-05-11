@@ -1,5 +1,6 @@
 body{
 	background-image:url('../cdn/bg.jpg');
-
+	background-attachment:fixed;
+	background-repeat:no-repeat;
 }
 
