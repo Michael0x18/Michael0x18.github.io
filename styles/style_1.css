@@ -5,3 +5,20 @@ body{
 	-o-background-size: cover;
 	background-size: cover;
 }
+
+table{
+	table-layout: fixed;
+}
+
+.container{
+	height:300px;
+	width:100%;
+	background-color:GhostWhite;
+	margin:auto;
+	border-radius: 15px 15px 15px 15px;
+	display: block;
+}
+
+.ct{
+	padding:10px;
+}
