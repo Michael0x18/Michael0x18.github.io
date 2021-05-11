@@ -1,6 +1,7 @@
-body{
-	background-image:url('../cdn/bg.jpg');
-	background-attachment:fixed;
-	background-repeat:no-repeat;
+body{ 
+	background: url(../cdn/bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
-
