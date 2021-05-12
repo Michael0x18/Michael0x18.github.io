@@ -17,11 +17,6 @@ table{
 	table-layout: fixed;
 }
 
-td {
-  padding-left: 50px;
-  padding-right: 50px;
-}
-
 .title_v2{
 	text-shadow:1px 1px 1px black;
 	color:darkblue;
@@ -40,23 +35,4 @@ td {
 
 .ct{
 	padding:10px;
-}
-
-/*A fancy button*/
-.fancybutton {
-  color:Black;
-  text-align:center;
-  /*border: 1px solid RoyalBlue;*/
-  box-shadow: 0 0 2pt 1pt DarkGray;
-  padding:1px;
-  border-radius: 5px 5px;
-  background-color:#87CEEB;
-}
-.fancybutton:hover{
-  background-color:#67AECB;
-  /*border:1px solid LightSkyBlue;*/
-}
-.fancybutton:active{
-  background-color:#77BEDB;
-  /*border:1px solid MediumBlue;*/
 }
