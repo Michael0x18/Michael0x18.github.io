@@ -22,6 +22,12 @@ td {
   padding-right: 50px;
 }
 
+.over {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
 .title_v2{
 	text-shadow:1px 1px 1px black;
 	color:darkblue;
