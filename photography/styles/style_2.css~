@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Ubuntu";
+    src: url("../cdn/Ubuntu-M.ttf");
+}
+
+body{ 
+	font-family:Ubuntu;
+	background: url(../cdn/bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-color:#87CEEB;
+}
+
+table{
+	table-layout: fixed;
+}
+
+.title_v2{
+	text-shadow:1px 1px 1px black;
+	color:darkblue;
+	font-size:36px;
+}
+
+.container{
+	height:300px;
+	width:100%;
+	background-color:GhostWhite;
+	margin:auto;
+	border-radius: 15px 15px 15px 15px;
+	display: block;
+	box-shadow:2px 2px 2px black;
+}
+
+.ct{
+	padding:10px;
+}

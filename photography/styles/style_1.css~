@@ -45,6 +45,17 @@ td {
 	box-shadow:2px 2px 2px black;
 }
 
+.container2{
+	overflow: auto;
+	height:300px;
+	width:100%;
+	background-color:GhostWhite;
+	margin:auto;
+	border-radius: 15px 15px 15px 15px;
+	display: block;
+	box-shadow:2px 2px 2px black;
+}
+
 .ct{
 	padding:10px;
 }
