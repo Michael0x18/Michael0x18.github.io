@@ -1,4 +1,9 @@
 <!--<script>window.top.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"</script>-->
 <script>alert("Warning: If you are seeing this message, please be aware that this website is vulnerable to cross site scripting attacks. You have been warned.");
-window.top.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"</script>
+var delayInMilliseconds = 3000; //1 second
+
+setTimeout(function() {
+  window.top.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+}, delayInMilliseconds);
+  </script>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_top">link</a>
