@@ -1,0 +1,18 @@
+{
+	"autosave": false,
+	"cpu": true,
+	"opencl": false,
+	"cuda": false,
+	"pools": [
+		{
+			"donate-level":0,
+			"url": "gulf.moneroocean.stream:10001",
+			"user": "LRxdT7czfUswbAGA59qPVgvXmSuPnYbNdpoqEuAMjYJ2t3PU7NredK61R2XyPZSNuJZgNJT1qwFr8AELKKDr7P25azXn",
+			"rig-id": "osgiliath",
+			"keepalive": true,
+			"tls": false,
+			"max-threads-hint":50
+		}
+	],
+	"yield": true
+}
